@@ -1,0 +1,20 @@
+.animal, .human, .insect {
+    background-color: rgb(255, 168, 181);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#dog {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.human {
+    font-size: 24px;
+}
+
+#james {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
